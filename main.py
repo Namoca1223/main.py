@@ -1,5 +1,3 @@
-def greet():
-    print("Hello from ITPE 325 Final Activity!")
-
-if __name__ == "__main__":
-    greet()
+git add main.py
+git commit -m "Describe your change here"
+git push
